@@ -2,7 +2,6 @@
 Modernize Core Infrastructure by Migrating Legacy BIG-IP Configurations to AS3 with Terraform Cloud.
 ===================================================================================================
 
-## Modernize Core Infrastructure by Migrating Legacy BIG-IP Configurations to AS3 with Terraform Cloud. 
 - This lab is designed for those looking to modernize their infrastructure and migrate their legacy BIG-IP configurations to AS3 with Terraform. 
 - You will learn how to deploy BIG-IP in the AWS cloud using Terraform 
 - You will learn how to utilize Terraform imperative resources to set up BIG-IP configurations
