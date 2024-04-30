@@ -34,4 +34,4 @@ The following topics will be covered
 
 **Go to [Exercise 5- Converting BIG-IP configuration using Vscode/ACC tool to AS3 configuration](docs/ex5.md)**
 
-**Go to [Exercise 6- Deploying AS3 App using TFC and terraform BIG-IP resources](docs/ex5.md)**
+**Go to [Exercise 6- Deploying AS3 App using TFC and terraform BIG-IP resources](docs/ex6.md)**
