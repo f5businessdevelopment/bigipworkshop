@@ -23,8 +23,8 @@ terraform plan
 terraform apply -auto-approve
 ```
 
-![Terraform apply](..images/apply.png)
+![Terraform apply](../images/apply.png)
 
 ## Check EC2 deployed on AWS Dashboard
 
-![AWS EC2 Dashboard](..images/ec2.png)
+![AWS EC2 Dashboard](../images/ec2.png)
