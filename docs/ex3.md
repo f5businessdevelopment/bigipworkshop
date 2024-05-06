@@ -43,10 +43,11 @@ terraform plan
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/3c50d081-1bf6-4428-83d4-80001e20a60c)
 
-
+---
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/583d9e2e-2e5a-41a3-a929-5be7f353308b)
 
+----
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b1e7fcd9-d744-47dc-bcb0-995c4a9be2f7)
 
 
