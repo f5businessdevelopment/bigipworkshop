@@ -9,3 +9,6 @@ Modernize Core Infrastructure by Migrating Legacy BIG-IP Configurations to AS3 w
 - By the end of this lab, you'll have the skills and knowledge to modernize your infrastructure and take advantage of the benefits of AS3.
 
 
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/40fb786f-7c5c-4d1a-8cad-658586a7f7f0)
+
+
