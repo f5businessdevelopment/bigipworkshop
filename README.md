@@ -18,7 +18,8 @@ To get the most out of this training, the student should already have some basic
 We will use the Unified Demo Framework (UDF) to run through the exercises in this workshop. The content is a multi-purpose toolkit for demonstrating BIG-IP automation capabilities using Terraform Cloud  in various forms -- instructor-led, hands-on or self-paced.
 
 ## Architecture
-![Demo Arch](images/f5_arch.png)
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/0e2c1f4d-39fb-419a-baa2-434bfe3791e6)
+
 The following topics will be covered
 
 ---
