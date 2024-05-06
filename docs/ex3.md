@@ -50,22 +50,4 @@ terraform plan
 ----
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b1e7fcd9-d744-47dc-bcb0-995c4a9be2f7)
 
-
-
-
-
-
-
-
-
-
-## Execute Terraform apply
-```
-terraform apply -auto-approve
-```
-
-![Terraform apply](../images/apply.png)
-
-## Check EC2 deployed on AWS Dashboard
-
-![AWS EC2 Dashboard](../images/ec2.png)
+ 
