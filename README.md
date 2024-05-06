@@ -27,7 +27,7 @@ The following topics will be covered
 
 **Go to [Exercise 1- Explore UDF and Access AWS Environment](docs/ex1.md)**
 
-**Go to [Exercise 2- Register New User on HCP Terraform](docs/ex2.md)**
+**Go to [Exercise 2- Create unique Organisation on HCP Terraform](docs/ex2.md)**
 
 **Go to [Exercise 3- Day 0 BIG-IP Deployment on AWS ](docs/ex3.md)**
 
