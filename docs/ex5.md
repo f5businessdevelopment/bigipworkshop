@@ -17,25 +17,4 @@ Exercise 5- Converting BIG-IP configuration using Vscode/ACC tool to AS3 configu
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/cbd2f0b2-b71d-4545-a93d-699ce2955f34)
 
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/03abd165-4b5a-4f36-bcbc-f9c269a5ea7b)
 
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/0efee389-0c47-4f6a-a32e-b341b2f75d74)
-
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/4cf05de0-0375-47fd-b4b7-95ece8ee9ab6)
-
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/be4e5626-48b3-405b-af16-54d32df5c79a)
-
------------------------------
-
-
-
-
-
-
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/257352ae-7a3f-4ced-9549-e9a12621ccdb)
-
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/5d8a7625-99b3-44d0-97de-1125c7ba2a3a)
-
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/fcf948bb-1951-4753-b1ba-b1ba55bf10cb)
-
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/c39f7fce-174c-4e82-9f5d-a284766d5fb8)
