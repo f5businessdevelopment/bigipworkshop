@@ -8,8 +8,6 @@ Modernize Core Infrastructure by Migrating Legacy BIG-IP Configurations to AS3 w
 - Employ the Journey Tool to transform your current configuration into AS3 format and execute the deployment of AS3 configurations onto BIG-IP using Terraform.
 - By the end of this lab, you'll have the skills and knowledge to modernize your infrastructure and take advantage of the benefits of AS3.
 
-
- ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/36fbcd8b-f290-41cd-82e9-31e26afc4ec9)
-
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/dfd23a00-acd7-474e-a663-10c24fefd96a)
 
 
