@@ -5,6 +5,8 @@ At the start, it's important to set up the Terraform Cloud organization and work
 The organization name will follow a format like "STUDENT-XXXX," where "XXXX" represents a unique prefix assigned to each student.
 Additionally, a workspace will be generated with a name patterned as "workspace-XXXX," where "XXXX" corresponds to the unique prefix assigned to each student.
 
+"Let's take a look at the existing `tfe.tf` file in your directory."
+
 ```
 # Declare required provider
 terraform {
