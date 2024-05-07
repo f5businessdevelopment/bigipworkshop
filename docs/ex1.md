@@ -45,22 +45,6 @@
    We will be using these AWS Secret Keys to authenticate the AWS Cloud to create infrastructure.
 
   ![alt text](../images/console.png)
-8. In the terminal, execute the command "aws configure" and input both the AWS key and AWS secret when prompted.
-
-   ![alt text](../images/keys.png)
-
-```
- aws configure
-
-    AWS Access Key ID [****************CGGT]:XXXXXXXXXXXXX
-
-    AWS Secret Access Key [****************QmTY]:XXXXXXXXXXX
-```
-
-  **Note:**  Let region be default us-west-2
-
-You now have access to your AWS environment. We are now ready to deploy and configure our infrastructure. Go to [Exercise1.2](../Exercise1.2) to subscribe to a trial versiono of F5 BIG-IP from AWS marketplace. 
-
 
 [GoTo Next Exercise1.2](../1.2/README.md)
 
