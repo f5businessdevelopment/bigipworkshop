@@ -23,6 +23,9 @@ Exercise 6- Deploying AS3 App using TFC and terraform BIG-IP resources
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/8bebd6a2-d942-4459-9eaa-e92412861d87)
 
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/78eca5b4-ba1c-4f68-97e4-d943a04264ff)
+
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/38e06954-9e18-40c7-957e-08411100800e)
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/38b04cf1-c87d-48f4-9648-33930920d33c)
