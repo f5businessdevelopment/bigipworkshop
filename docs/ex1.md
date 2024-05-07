@@ -40,8 +40,10 @@
    change directory to ```cd AS3_TerraformCloud```
 
    ![alt text](../images/terminal.png)
+   ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/bc5b15d0-b6d2-48cf-a279-f70555008b80)
 
-7. On the browser, under the deployment tab, click on **Cloud Accounts** and look for the **API Key** and **API Secret** as shown below
+
+8. On the browser, under the deployment tab, click on **Cloud Accounts** and look for the **API Key** and **API Secret** as shown below
    We will be using these AWS Secret Keys to authenticate the AWS Cloud to create infrastructure.
 
   ![alt text](../images/console.png)
