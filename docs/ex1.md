@@ -3,18 +3,21 @@
 1. Prior to this workshop, student must have received an email with your login instructions and a link to access the UDF course.
    We need this to access and deploy  infrastructure on AWS for this lab. 
 
-   ![alt text](../images/emailclick.png)
+  ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/290cc6c1-67e9-4c10-a097-aad0a3cb78ef)
+
    
    **Note:** If you are not able to find these details please ask instructor.
    
 2. On clicking the link, you will enter the course lobby as shown below. Verify the course name (Dynamic Service Networking) and click Join.
 
-   ![alt text](../images/click_on_join.png)
+   ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/bd23d537-ea57-4fd8-8786-3d550d9922ce)
+
    
 3. Click on DEPLOYMENT buttom on the top left to begin provisioning your personal lab access server and network in AWS.
    Here we are creating a ubuntu server to access to AWS resources
 
-   ![alt text](../images/click_ondeployment.png)
+   ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/49df6787-1c1d-41bc-b516-a5091540edb7)
+
 
 4. Ensure the 'Region' is ``` us-west-2 ```
    Currently the lab is only design for AWS resources in us-west-2
