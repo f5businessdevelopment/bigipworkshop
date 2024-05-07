@@ -37,10 +37,10 @@
 
    ![alt text](../images/vscode.png)
 
-   change directory to ```cd AS3_TerraformCloud```
+   change directory to ```cd BIG-IP-Configs-to-AS3-with-Terraform```
 
-   ![alt text](../images/terminal.png)
-   ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/bc5b15d0-b6d2-48cf-a279-f70555008b80)
+   ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/d2d587e7-fc2c-4937-b101-96aef292656e)
+
 
 
 8. On the browser, under the deployment tab, click on **Cloud Accounts** and look for the **API Key** and **API Secret** as shown below
