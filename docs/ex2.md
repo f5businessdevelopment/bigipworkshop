@@ -112,6 +112,8 @@ terraform plan
 ```
 terraform apply -auto-approve
 ```
+This action will generate a distinctive organizational name and workspace for you within HCP Terraform.
+
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/67329155-2d4c-448e-94b4-f079f04f6212)
 
