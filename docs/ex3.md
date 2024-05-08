@@ -31,7 +31,13 @@ Navigate to app.terraform.io and click on the Terraform icon. Head to the Organi
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/9b5d64ac-6d8c-4c97-af69-ac7c4fba919e)
 
-Ensure that you're in the correct organization, matching the prefix number with your organization's designation.
+Make sure you're in the right organization, aligning the prefix number with your organization's designation. Then, provide an appropriate name for the variable set.
+
+You can provide name as 
+```
+AWS Credentials
+```
+
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/5522be7b-70e8-4b07-9220-5dbddc445b91)
 
