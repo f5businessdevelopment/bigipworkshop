@@ -2,7 +2,7 @@ Exercise 2- Create a New Organisation and Workspace on HCP Terraform
 ====================================================================
 
 At the start, it's important to set up the Terraform Cloud organization and workspace. This prepares you to utilize Terraform Cloud for deploying the initial BIG-IP configuration on AWS at a later stage.
-The organization name will follow a format like <span style="color: red;">STUDENT-XXX</span>  where "__XXXX__" represents a unique prefix assigned to each student.
+The organization name will follow a format like __STUDENT-XXX__  where "__XXXX__" represents a unique prefix assigned to each student.
 Additionally, a workspace will be generated with a name patterned as "__workspace-XXXX__," where "__XXXX__" corresponds to the unique prefix assigned to each student.
 
 "Let's take a look at the existing `tfe.tf` file in your directory."
