@@ -22,8 +22,6 @@ We will use the Unified Demo Framework (UDF) to run through the exercises in thi
 
 
 
-
-
 The following topics will be covered
 
 ---
