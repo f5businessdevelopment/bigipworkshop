@@ -10,4 +10,4 @@ Modernize Core Infrastructure by Migrating Legacy BIG-IP Configurations to AS3 w
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/37354055-ff8e-408b-b829-436b8771fc4c)
 
-[GoTo Next Exercise1.1](ex1.md)
+[GoTo Next Exercise 1.1](ex1.md)
