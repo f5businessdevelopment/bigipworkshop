@@ -31,6 +31,8 @@ Navigate to app.terraform.io and click on the Terraform icon. Head to the Organi
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/9b5d64ac-6d8c-4c97-af69-ac7c4fba919e)
 
+Ensure that you're in the correct organization, matching the prefix number with your organization's designation.
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/5522be7b-70e8-4b07-9220-5dbddc445b91)
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/2bb753fa-bc87-4f87-9cc4-3593fc167c43)
