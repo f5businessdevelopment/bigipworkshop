@@ -125,4 +125,4 @@ You'll also notice that your __workspace-XXXX__ has been created correctly. Feel
 You can explore the workspace and learn how to initialize it. Take note of the example code provided, which references your organization name and corresponding workspace. We'll utilize this in all our workspaces when managing the BIG-IP platform for __Day0__, __Day1__, and __AS3__ deployment. However, dedicated workspaces will be created for __Day1__ and __AS3__ tasks.
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/fb44b33a-959e-4e0b-a9e0-6085c6721df3)
 
-
+[GoTo Next Exercise1.3](ex3.md)
