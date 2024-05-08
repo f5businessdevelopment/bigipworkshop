@@ -1,4 +1,4 @@
-# Exercise 1.1 - Explore UDF and access AWS environment.
+# Exercise 1.1 - Explore UDF and access AWS Environment.
 
 
 1. Prior to this workshop, student must have received an email with your login instructions and a link to access the UDF course.
@@ -27,14 +27,18 @@
 5. Navigate to Componets -->  Systems Jumpbox --> Access --> RDP and RDP into the JumpBox
 
    ![alt text](../images/RDP_Jumpbox.png)
+
+   
+  You'll be presented with a range of resolution options. Feel free to choose whichever suits your 
+  needs. If you don't make a selection, it will automatically default to the highest resolution
+  
    ![alt text](../images/login.png)
     
-6. Upon entering the RDP session on the Ubuntu jumpbox, locate "Activities" positioned in the top-left     corner and proceed to click on it to view the available applications.
+7. Upon entering the RDP session on the Ubuntu jumpbox, locate "Activities" positioned in the top-left     corner and proceed to click on it to view the available applications.
 
    ![alt text](../images/activities.png)
 
-   Click on the Vscode icon as shown below
-
+  
    ![alt text](../images/vscode.png)
 
    change directory to ```cd BIG-IP-Configs-to-AS3-with-Terraform```
