@@ -43,7 +43,11 @@ left corner and proceed to click on it to view the available applications.
   
    ![alt text](../images/vscode.png)
 
-   change directory to ```cd BIG-IP-Configs-to-AS3-with-Terraform```
+   change directory to
+   ```
+   cd BIG-IP-Configs-to-AS3-with-Terraform
+
+   ```
    We're navigating to the directory to ensure we're in the right location to begin interacting 
    with HCP Terraform for deploying the Org and workspace later
 
