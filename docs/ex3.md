@@ -19,8 +19,11 @@ terraform plan
 ```
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/cda54e23-fcc4-41ee-96dd-ce480da54137)
 
+An error occurs because AWS credentials, such as AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY, haven't been configured in HCP Terraform. Let's address this in our next step.
 
 ## Configure VariableSets for AWS Credentials on Terraform Cloud
+
+Navigate to app.terraform.io and click on the Terraform icon. Head to the Organisations tab; ensure you're in the correct organization. Then, move to the Variables Sets on the left-hand side and choose "__Create New Variable Set__."
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/c9118231-8063-4cc8-8602-2564b054cc25)
 
