@@ -114,6 +114,7 @@ terraform apply -auto-approve
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/67329155-2d4c-448e-94b4-f079f04f6212)
 
+Navigate to the HCP Terraform app at app.terraform.io in your browser. Click on the Terraform icon located in the upper left corner, then proceed to the 'Organizations' section. Select your correct Org name, typically labeled as STUDENT-XXX. Ensure that you choose your specific Org name and check for the appropriate PREFIX following the 'STUDENT' word. The PREFIX should be provided by the terraform apply command you executed in the previous step. Avoid selecting any other Org
 
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/1ab39f9e-dfc7-402f-a244-220c728cea75)
