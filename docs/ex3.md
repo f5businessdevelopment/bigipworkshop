@@ -50,4 +50,4 @@ terraform plan
 ----
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b1e7fcd9-d744-47dc-bcb0-995c4a9be2f7)
 
- 
+ [GoTo Next Exercise1.4](ex4.md)
