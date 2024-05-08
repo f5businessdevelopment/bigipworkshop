@@ -46,6 +46,11 @@ Next, navigate to your UDF cloud deployment and locate Cloud Accounts, as illust
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/2bb753fa-bc87-4f87-9cc4-3593fc167c43)
 
+Next, proceed to configure the AWS_ACCESS Key and Secret. Ensure you've selected the Environmental variable option. Then, navigate to Key and copy-paste the Key name from here into the Key field.
+```
+AWS_ACCESS_KEY_ID
+```
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/d6c2107c-f9be-417e-af7c-8f3575c9d28d)
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/6ca490a0-d53f-4461-9b2c-04750a6c734c)
