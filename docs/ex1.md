@@ -59,6 +59,6 @@
    We'll require this information to input as AWS credentials into HCP Terraform, as all tasks will be 
    executed through HCP Terraform.
 
-[GoTo Next Exercise1.2](../1.2/README.md)
+[GoTo Next Exercise1.2](../1.2/ex2.md)
 
 [GoBack](../README.md)
