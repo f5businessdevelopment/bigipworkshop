@@ -119,7 +119,7 @@ Navigate to the HCP Terraform app at app.terraform.io in your browser. Click on 
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/1ab39f9e-dfc7-402f-a244-220c728cea75)
 
-You'll also notice that your workspace-XXXX has been created correctly. Feel free to review the details.
+You'll also notice that your __workspace-XXXX__ has been created correctly. Feel free to review the details.
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/a6758fec-8d4a-48c0-8279-2dc1a4ce83a0)
 You can explore the workspace and learn how to initialize it. Take note of the example code provided, which references your organization name and corresponding workspace. We'll utilize this in all our workspaces when managing the BIG-IP platform for __Day0__, __Day1__, and __AS3__ deployment. However, dedicated workspaces will be created for __Day1__ and __AS3__ tasks.
