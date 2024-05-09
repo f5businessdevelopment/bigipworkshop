@@ -8,7 +8,7 @@
    
    **Note:** If you are not able to find these details please ask the instructor.
    
-2. On clicking the link, you will enter the course lobby as shown below. Verify the course name (Dynamic Service Networking) and click Join.
+2. On clicking the link, you will enter the course lobby as shown below. Verify the course name  and click Join.
 
    ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/bd23d537-ea57-4fd8-8786-3d550d9922ce)
 
@@ -29,6 +29,7 @@
    
   You'll be presented with a range of resolution options. Feel free to choose whichever suits your 
   needs. If you don't make a selection, it will automatically default to the highest resolution
+  Please use username as ```student``` and password as ```workshop```
   
    ![alt text](../images/login.png)
     
