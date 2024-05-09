@@ -13,7 +13,6 @@ If you have any questions or issues, [Click here to open an issue](https://githu
 To get the most out of this training, the student should already have some basic knowledge about the use of Terraform and BIG-IP.
 
 **Lab Environment**
-
 We will use the Unified Demo Framework (UDF) to run through the exercises in this workshop. The content is a multi-purpose toolkit for demonstrating BIG-IP automation capabilities using Terraform Cloud  in various forms -- instructor-led, hands-on or self-paced.
 
 ## Architecture
@@ -33,4 +32,4 @@ The following topics will be covered
 
 **Go to [Exercise 5- Converting BIG-IP configuration using Vscode/ACC tool to AS3 configuration](docs/ex5.md)**
 
-**Go to [Exercise 6- Deploying AS3 App using TFC and terraform BIG-IP resources](docs/ex6.md)**
+ [Exercise 6- Deploying AS3 App using TFC and terraform BIG-IP resources](docs/ex6.md)**
