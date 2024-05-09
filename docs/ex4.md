@@ -1,5 +1,5 @@
-Exercise 4- Day 1 Creating BIG-IP objects using TFC and BIG-IP resources
-========================================================================
+Exercise 4 - Day 1 Creating BIG-IP objects using TFC and BIG-IP terraform resources
+===================================================================================
 
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b8f3e4d9-e0ac-4a50-9b97-21a4e422b001)
