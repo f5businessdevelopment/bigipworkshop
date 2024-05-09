@@ -19,7 +19,7 @@ We will use the Unified Demo Framework (UDF) to run through the exercises in thi
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/52ba0d6a-d78c-4c0e-8d6f-b4ab24c5101d)
 
 The following topics will be covered
----
+
 **Go to [Lab Overview](docs/overview.md)**
 
 **Go to [Exercise 1- Explore UDF and Access AWS Environment](docs/ex1.md)**
@@ -32,4 +32,4 @@ The following topics will be covered
 
 **Go to [Exercise 5- Converting BIG-IP configuration using Vscode/ACC tool to AS3 configuration](docs/ex5.md)**
 
- [Exercise 6- Deploying AS3 App using TFC and terraform BIG-IP resources](docs/ex6.md)**
+**Go to [Exercise 6- Deploying AS3 App using TFC and terraform BIG-IP resources](docs/ex6.md)**
