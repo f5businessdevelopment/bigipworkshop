@@ -51,6 +51,11 @@ AWS_ACCESS_KEY_ID
 
 Next, navigate to your UDF cloud deployment and locate Cloud Accounts, as illustrated in the image below. This step is essential for obtaining AWS credentials such as the Secret Key and Key ID.
 
+Add the AWS secret key name and update it with the secret key provided.
+
+```
+AWS_SECRET_ACCESS_KEY
+```
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/2bb753fa-bc87-4f87-9cc4-3593fc167c43)
 
