@@ -115,9 +115,10 @@ This step is necessary to access the BIG-IP from the HCP Terraform Cloud.
 
 Next, execute the command `terraform init` to initialize the Terraform configuration.
 
-Next, execute the command `terraform plan` to initialize the Terraform configuration.
+Next, execute the command `terraform plan` to generate and review an execution plan based on the Terraform configuration.
 
-Next, execute the command `terraform apply -auto-approve` to initialize the Terraform configuration.
+Execute the command `terraform apply` to apply the changes defined in the Terraform configuration and provision the resources accordingly.
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/7cc0aca6-a6cf-49f5-9e6c-f32d1406977d)
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/27332858-b937-4d97-ad2f-f3c724423942)
