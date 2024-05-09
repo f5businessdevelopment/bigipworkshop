@@ -113,6 +113,8 @@ This step is necessary to access the BIG-IP from the HCP Terraform Cloud.
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/c1b63619-b8fa-475d-a079-f771f79db62b)
 
+Next, execute the command `terraform init` to initialize the Terraform configuration.
+Next, execute the command `terraform plan` to initialize the Terraform configuration.
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/7cc0aca6-a6cf-49f5-9e6c-f32d1406977d)
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/27332858-b937-4d97-ad2f-f3c724423942)
