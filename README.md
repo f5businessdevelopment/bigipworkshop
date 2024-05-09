@@ -20,7 +20,6 @@ We will use the Unified Demo Framework (UDF) to run through the exercises in thi
 ## Architecture
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/52ba0d6a-d78c-4c0e-8d6f-b4ab24c5101d)
 
-
 The following topics will be covered
 ---
 **Go to [Lab Overview](docs/overview.md)**
