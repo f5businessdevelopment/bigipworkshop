@@ -77,14 +77,18 @@ terraform apply -auto-approve
 
 The BIG-IP deployment will take approximately a couple of minutes. You can verify the output for the public IP and password, which will be necessary during the Day1 deployment when configuring the Application objects.
 
+
+Access the AWS Console by logging in from the Jump box instead of your laptop. Use the login ID __udf__ and copy the password from the UDF Cloud account.
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/3c50d081-1bf6-4428-83d4-80001e20a60c)
 
 ---
-Access the AWS Console by logging in from the Jump box instead of your laptop. Use the login ID __udf__ and copy the password from the UDF Cloud account.
+Now, visit app.terraform.io and ensure you're in your appropriate organization. Navigate to your __workspace-XXX__, where you can view the run details as illustrated below.
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/583d9e2e-2e5a-41a3-a929-5be7f353308b)
 
 ----
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b1e7fcd9-d744-47dc-bcb0-995c4a9be2f7)
 
+Great! We've successfully deployed the BIG-IP in the workspace. Let's proceed to the next exercise, which focuses on Day1 operations, such as deploying the BIG-IP objects.
  [GoTo Next Exercise1.4](ex4.md)
