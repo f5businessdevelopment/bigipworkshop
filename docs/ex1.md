@@ -24,7 +24,7 @@
    
 5. Navigate to Components -->  __Systems Jumpbox__ --> __Access__ --> __RDP__ and RDP into the JumpBox
 
-   ![alt text](../images/RDP_Jumpbox.png)
+![alt text](../images/RDP_Jumpbox.png)
 
    
   You'll be presented with a range of resolution options. Feel free to choose whichever suits your 
@@ -36,7 +36,7 @@
 6. Upon entering the RDP session on the Ubuntu jump box, locate "__Activities__" positioned in the top- 
 left corner and proceed to click on it to view the available applications.
 
-   ![alt text](../images/activities.png)
+![alt text](../images/activities.png)
 
   Locate the VScode icon and click on it. Similarly, locate the browser icon and click on it. Both 
   applications will then launch. Please allow a few seconds for them to appear, especially since 
