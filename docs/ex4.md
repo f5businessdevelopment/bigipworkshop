@@ -130,11 +130,20 @@ You can now navigate to the workspace to verify that the day1 workspace is creat
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/5b36a47c-1427-4d6e-9879-bbec6d802ef2)
 
+To access the configuration on the BIG-IP, you'll need to obtain the credentials from the Outputs section in the HCP Terraform. Click on the F5_ui Public IP or copy and open the same in your browser to log in to the BIG-IP interface.
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/3fb0ea02-b227-4640-aa16-a24c5f17fe42)
+
+Navigate to the traffic manager option and proceed to the virtual server. Check the status of the virtual server, pool, and pool members. You should see a green light indicating that everything is functioning correctly.
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/9fa2541a-af7b-49e5-8e21-ae88d81d288a)
 
+Additionally, to access the backend application from your RDP jump box browser, set up another security group allowing traffic on port 8080. Furthermore, from your RDP session browser, navigate to the AWS console and update the ingress Security Group for the F5 instance "studentXXX-f5 instance" to enable TCP port 8080 for 0.0.0.0/0.
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/d5dbcb05-e30e-4116-94eb-38d2e9157300)
+
+To access the backend NGINX app, issue the command `http://Public_IP_of_F5:8080` from your Jumpbox browser.
+
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/264ea0c6-6fc9-4c85-a34e-112a6b868642)
 
