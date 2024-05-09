@@ -84,6 +84,9 @@ resource "bigip_ltm_virtual_server" "vs_tc1" {
 
 Defines Terraform resources for configuring BIG-IP application objects such as monitors, pools, pool attachments, and virtual servers.
 
+You can access the BIG-IP credentials by navigating to the app.terraform.io, then to your workspace. Click on "Outputs" to retrieve the credentials required for configuring the BIG-IP Terraform Variables Set.
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b8f3e4d9-e0ac-4a50-9b97-21a4e422b001)
 
 ---
 open app.terraform.io in a new TAB go to your Org and workspace and click on Settings
@@ -123,7 +126,6 @@ click on VariableSets we are adding the BIG-IP Env variables for terraform
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/264ea0c6-6fc9-4c85-a34e-112a6b868642)
 
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b8f3e4d9-e0ac-4a50-9b97-21a4e422b001)
 
 
 [GoTo Next Exercise1.5](ex5.md)
