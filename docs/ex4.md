@@ -1,7 +1,38 @@
 Exercise 4 - Day 1 Creating BIG-IP objects using TFC and BIG-IP terraform resources
 ===================================================================================
 
+For Day1, our focus shifts to deploying the BIG-IP application objects using imperative Terraform resources. The main.tf file contains configuration details where we set up monitors, nodes, pools, and virtual servers using imperative BIG-IP Terraform resources, as illustrated below.
 
+```
+ # Terraform Configuration for Deploying BIG-IP Application Objects
+
+## Cloud Configuration
+
+```hcl
+cloud {
+  organization = "<Your Organisation STUDENT-XXXX"
+
+  workspaces {
+    name = "day1"
+  }
+}
+   
+```
+Specifies the cloud settings for the Terraform configuration, including the organization and workspace name.
+
+###Required Providers
+```
+required_providers {
+  bigip = {
+    source  = "F5Networks/bigip"
+    version = "1.22.0"
+  }
+}
+
+```
+Defines the required provider for interacting with the BIG-IP platform.
+
+###Provider Configuration
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b8f3e4d9-e0ac-4a50-9b97-21a4e422b001)
 
 ---
