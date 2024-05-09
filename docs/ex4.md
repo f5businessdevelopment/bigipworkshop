@@ -8,7 +8,6 @@ For Day1, our focus shifts to deploying the BIG-IP application objects using imp
 
 ## Cloud Configuration
 
-```hcl
 cloud {
   organization = "<Your Organisation STUDENT-XXXX"
 
@@ -20,7 +19,7 @@ cloud {
 ```
 Specifies the cloud settings for the Terraform configuration, including the organization and workspace name.
 
-###Required Providers
+### Required Providers
 ```
 required_providers {
   bigip = {
@@ -32,7 +31,19 @@ required_providers {
 ```
 Defines the required provider for interacting with the BIG-IP platform.
 
-###Provider Configuration
+### Provider Configuration
+
+```
+provider "bigip" {
+  address  = "https://${var.address}:${var.port}"
+  username = var.username
+  password = var.password
+}
+
+```
+Configures the BIG-IP provider with the necessary connection details such as address, username, and password.
+
+### Resource Definitions
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b8f3e4d9-e0ac-4a50-9b97-21a4e422b001)
 
 ---
