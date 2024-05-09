@@ -104,10 +104,12 @@ You should see the BIG-IP Variables Set displayed as illustrated below. Ensure t
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/2aedc361-3214-44cb-a42e-69ad0d8aaaf3)
 
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/87896ecb-9838-453d-a428-3e0dc93cafc8)
+Before running the `terraform init/plan/apply` commands, ensure you update the Organization in the `main.tf` file with the correct prefix.
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/96de93ed-f6d4-48f0-9bcd-6871491418f9)
 
+Additionally, from your RDP session browser, navigate to the AWS console and update the ingress Security Group for the F5 instance "studentXXX-f5 instance" as depicted. Enable TCP port 8443 for 0.0.0.0/0.
+This step is necessary to access the BIG-IP from the HCP Terraform Cloud.
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/c1b63619-b8fa-475d-a079-f771f79db62b)
 
