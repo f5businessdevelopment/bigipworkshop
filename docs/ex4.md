@@ -89,7 +89,7 @@ You can access the BIG-IP credentials by navigating to the app.terraform.io, the
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b8f3e4d9-e0ac-4a50-9b97-21a4e422b001)
 
 ---
-open app.terraform.io in a new TAB go to your Org and workspace and click on Settings
+Open app.terraform.io in a new tab, then navigate to your Organization and workspace. Click on "Settings."
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/5afd1a83-087a-4890-8e32-4f7ced33f9f4)
 
@@ -100,6 +100,7 @@ click on VariableSets we are adding the BIG-IP Env variables for terraform
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/1c25dc14-5c20-4295-b256-b56fe1df9c24)
 
+You should see the BIG-IP Variables Set displayed as illustrated below. Ensure that you have selected "Terraform variables."
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/2aedc361-3214-44cb-a42e-69ad0d8aaaf3)
 
