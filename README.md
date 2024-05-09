@@ -5,7 +5,6 @@
 - Employ the Journey Tool to transform your current configuration into AS3 format and execute the deployment of AS3 configurations onto BIG-IP using Terraform.
 - By the end of this lab, you'll have the skills and knowledge to modernize your infrastructure and take advantage of the benefits of AS3.
 
-
 **Note:** 
 If you have any questions or issues, [Click here to open an issue](https://github.com/f5businessdevelopment/BIGIP_TerraformCloud/issues)
 
