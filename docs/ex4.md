@@ -9,7 +9,7 @@ For Day1, our focus shifts to deploying the BIG-IP application objects using imp
 ## Cloud Configuration
 
 cloud {
-  organization = "<Your Organisation STUDENT-XXXX"
+  organization = "<Your Organisation STUDENT-XXXX>"
 
   workspaces {
     name = "day1"
