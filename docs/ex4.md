@@ -125,6 +125,9 @@ Execute the command `terraform apply` to apply the changes defined in the Terraf
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/4bddc4ea-01e4-49e3-8fb5-cf2fe0310293)
 
+You can now navigate to the workspace to verify that the day1 workspace is created and the configuration is successfully applied.
+
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/5b36a47c-1427-4d6e-9879-bbec6d802ef2)
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/3fb0ea02-b227-4640-aa16-a24c5f17fe42)
