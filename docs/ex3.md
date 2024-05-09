@@ -61,7 +61,15 @@ AWS_SECRET_ACCESS_KEY
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/6ca490a0-d53f-4461-9b2c-04750a6c734c)
 
+Save the variable set, ensuring that the "env" option is selected.
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/d52b1e5c-54d1-40f6-b675-7bf7bc9f1963)
+
+Now run the command 
+
+```
+terraform apply -auto-approve
+```
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/d80d6c43-1bee-46b6-81c4-da0250caf51a)
 
