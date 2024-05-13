@@ -36,6 +36,8 @@ terraform apply -auto-approve
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/2b1c8cf4-9516-4a9c-8837-33843f069fbc)
 
+You'll encounter this if you haven't removed the configuration from day1, as the previous setup remains intact on BIG-IP.
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/944b5ff6-cac0-499e-aa70-3ada8a90cbb8)
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/94a9048e-171c-4046-b813-2b467aeb6450)
