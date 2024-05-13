@@ -112,6 +112,14 @@ Before running the `terraform init/plan/apply` commands, ensure you update the O
 
 Additionally, from your RDP session browser, navigate to the AWS console and update the ingress Security Group for the F5 instance "studentXXX-f5 instance" as depicted. Enable ```SSH``` with __My IP__ as we will need to ssh into the Agent from your jumpbox
 
+## Setup HCP Terraform Agent
+
+Before configuring the Agent, it's necessary to perform `terraform init` and `terraform plan`. This step is crucial as we need to create the workspace named "day1". This workspace will utilize the "bigip-pool" Agent to communicate with the HCP Terraform.
+
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/2d609b76-12a2-41ba-87e3-7229e8437950)
+
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/221fc562-027d-4f02-868b-676398453c94)
 
 Next, execute the command `terraform init` to initialize the Terraform configuration.
