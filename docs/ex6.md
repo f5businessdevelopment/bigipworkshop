@@ -1,16 +1,37 @@
 Exercise 6- Deploying AS3 App using TFC and terraform BIG-IP resources
 ======================================================================
+In this exercise, we'll explore deploying AS3 (Application Services 3) JSON blobs using BIG-IP Terraform resources. We'll utilize the configuration we converted from legacy settings to AS3. Once more, we'll employ the same big-pool agent for this task.
 
+Let's examine the `main.tf` file and ensure that the organization is set to STUDENT-XXXX. Please verify your prefix and adjust the number accordingly.
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/a4a2d69e-b965-4db7-bf75-a4765ea45d6e)
 
+You can confirm your prefix or organization number by revisiting the "day0" section and inspecting the `cloud.tf` file.
+```
+cat  ../day0/cloud.tf
+```
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/43ed8802-e43e-4a6a-bbce-726ff2145b6b)
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/77b0df9e-040b-4307-bccd-072497adc171)
 
+Let's execute terraform now
+
+```
+terraform init
+```
+
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/218b3419-e4b1-41e5-8501-c0dff731b91c)
 
+```
+terraform plan
+```
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/a9b16439-b4ae-4157-af3e-644bfce7f9bf)
+
+```
+terraform apply -auto-approve
+```
 
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/2b1c8cf4-9516-4a9c-8837-33843f069fbc)
