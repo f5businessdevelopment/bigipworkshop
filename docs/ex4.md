@@ -102,7 +102,8 @@ click on VariableSets we are adding the BIG-IP Env variables for terraform
 
 You should see the BIG-IP Variables Set displayed as illustrated below. Ensure that you have selected "Terraform variables."
 
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/2aedc361-3214-44cb-a42e-69ad0d8aaaf3)
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/69215482-fd6e-4fc7-a1d5-f01a36cf0849)
+
 
 Before running the `terraform init/plan/apply` commands, ensure you update the Organization in the `main.tf` file with the correct prefix.
 
