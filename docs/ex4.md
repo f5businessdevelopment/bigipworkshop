@@ -207,6 +207,14 @@ To access the backend NGINX app, issue the command `http://Public_IP_of_F5:8080`
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/264ea0c6-6fc9-4c85-a34e-112a6b868642)
 
 
+You can omit the configuration for now, as in the upcoming exercise, we'll focus on creating and deploying AS3 configurations using declarative BIG-IP Terraform resources.
+
+```
+terraform destroy
+```
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b84d0cf9-c532-4005-a50e-6f1c894d3111)
+
 
 [GoTo Next Exercise1.5](ex5.md)
 
