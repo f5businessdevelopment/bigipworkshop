@@ -116,10 +116,60 @@ Additionally, from your RDP session browser, navigate to the AWS console and upd
 
 ## Setup HCP Terraform Agent
 
-Before configuring the Agent, it's necessary to perform `terraform init` and `terraform plan`. This step is crucial as we need to create the workspace named "day1". This workspace will utilize the "bigip-pool" Agent to communicate with the HCP Terraform.
+Before configuring the Agent, it's necessary to perform `terraform init` and `terraform plan`. This step is crucial as we need to create the workspace named "day1". This workspace will utilize the "bigip-pool" Agent to communicate with the HCP Terraform. Terraform plan will fail however it will create the "day1" workspace.
 
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/2d609b76-12a2-41ba-87e3-7229e8437950)
+
+### SSH into Terraform Agent 
+
+ssh into the Agent instance
+
+```
+ssh -i work ec2-user@54.212.233.53
+```
+You need to check your agent IP by doing ```terraform output``` from ```BIG-IP-Configs-to-AS3-with-Terraform/day0```
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/03cfad44-e126-4755-8080-9d7bb9f414ef)
+
+Access the Agent option by first navigating to "workspaces", then proceed to "settings", and finally select "Agents".
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/e3ed4eba-6375-47b7-92ba-73a3558f4b0f)
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/bf117f3b-e3b3-4665-8818-ac30273b9518)
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/f7dfd7ef-167b-4438-94e8-96afe9c8ac14)
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/2f9ae4b1-f9e9-454a-8551-611ec3af38a8)
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/d201847c-1bc3-4071-8d03-969a4337f171)
+
+
+You should see something like this
+
+```
+sudo docker run -e TFC_AGENT_TOKEN=8CamtPH5tqLLCQ.atlasv1.hR4lCwKzQ -e TFC_AGENT_NAME=big-pool hashicorp/tfc-agent:latest
+2024-05-13T19:47:09.426Z [INFO]  agent: Starting: agent_name=big-pool agent_version=1.15.1
+2024-05-13T19:47:09.440Z [INFO]  core: Starting: version=1.15.1
+2024-05-13T19:47:09.823Z [INFO]  core: Agent registered successfully with HCP Terraform: agent_id=agent-aAzhSEqFr2i36Jr2 agent_pool_id=apool-gYsid9axtTudn3yk
+2024-05-13T19:47:09.871Z [INFO]  agent: Core version is up to date: version=1.15.1
+2024-05-13T19:47:09.872Z [INFO]  core: Waiting for next job
+
+```
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/4d28a476-83f9-402f-b399-8e34b9d264a7)
+
+### Set up the day1 workspace to utilize the big-pool Agent.
+
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/47c44266-b168-4b00-869a-aef078cf4cb8)
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/59bf0345-d533-4fc7-b46d-37cf73e42e5f)
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/2895fe0a-a946-4a24-8677-667f5f065e22)
+
+
+
+
 
 
 Next, execute the command `terraform init` to initialize the Terraform configuration.
