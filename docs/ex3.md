@@ -1,6 +1,12 @@
 Exercise 3- Day 0 BIG-IP Deployment on AWS
 ==========================================
 
+## Create a SSH Key 
+Before executing the Terraform script, it's essential to generate an SSH key pair. We'll require this in the subsequent section to configure the HCP Terraform agent on a VM machine.
+
+```
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com" -f work
+```
 This exercise uses  Terraform files responsible for setting up an isolated VPC for your deployments, complete with security groups. It deploys a __BIG-IP__ instance along with two __NGINX__ instances. These actions occur within your exclusive __STUDENT-XXX__ Organization and workspace, labeled as __"Day0"__. Upon completion, it provides the Public IP address and password for the __BIG-IP__ instance. These credentials are crucial for configuring the BIG-IP on __Day1__, requiring you to set them as Terraform variables in HCP Terraform for your subsequent __Day1__ deployment.
 
 Before executing the Terraform commands, ensure that you're in the __day0__ directory, as shown in the picture.
