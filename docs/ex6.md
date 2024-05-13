@@ -40,7 +40,27 @@ You'll encounter this if you haven't removed the configuration from day1, as the
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/944b5ff6-cac0-499e-aa70-3ada8a90cbb8)
 
+going back to day1 now
+
+```
+cd ../day1
+
+```
+
+```
+terraform destroy
+
+```
+
+
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/94a9048e-171c-4046-b813-2b467aeb6450)
+
+Now do terraform apply again
+
+```
+terraform apply -auto-approve
+```
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b58c45cf-9627-4327-a926-3355136d445c)
 
