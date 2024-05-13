@@ -110,10 +110,9 @@ Before running the `terraform init/plan/apply` commands, ensure you update the O
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/96de93ed-f6d4-48f0-9bcd-6871491418f9)
 
-Additionally, from your RDP session browser, navigate to the AWS console and update the ingress Security Group for the F5 instance "studentXXX-f5 instance" as depicted. Enable TCP port 8443 for 0.0.0.0/0.
-This step is necessary to access the BIG-IP from the HCP Terraform Cloud.
+Additionally, from your RDP session browser, navigate to the AWS console and update the ingress Security Group for the F5 instance "studentXXX-f5 instance" as depicted. Enable ```SSH``` with __My IP__ as we will need to ssh into the Agent from your jumpbox
 
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/c1b63619-b8fa-475d-a079-f771f79db62b)
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/221fc562-027d-4f02-868b-676398453c94)
 
 Next, execute the command `terraform init` to initialize the Terraform configuration.
 
