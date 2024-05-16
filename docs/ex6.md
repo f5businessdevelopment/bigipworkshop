@@ -88,4 +88,4 @@ terraform destroy
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/5940e1e2-c361-48fe-8688-1f726da25217)
 
-[GoTo Next Home](../README.md)
+[GoTo Home](../README.md)
