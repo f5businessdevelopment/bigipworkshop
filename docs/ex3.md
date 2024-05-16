@@ -91,6 +91,10 @@ Access the AWS Console by logging in from the Jump box instead of your laptop. U
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/3c50d081-1bf6-4428-83d4-80001e20a60c)
 
+## Take note You will be always in the us-west-2 region of Oregon
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/e6bfc70a-a916-47a3-a688-22f47ca4eceb)
+
 ---
 Now, visit app.terraform.io and ensure you're in your appropriate organization. Navigate to your __workspace-XXX__, where you can view the run details as illustrated below.
 
