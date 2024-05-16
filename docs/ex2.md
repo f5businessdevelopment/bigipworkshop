@@ -1,5 +1,6 @@
 Exercise 2- Create a New Organisation and Workspace on HCP Terraform
 ====================================================================
+To access Terraform Cloud, go to [https://app.terraform.io](https://app.terraform.io) from your Jump Box. Your Jump Box is set up to authenticate with HCP Terraform. If you encounter any access issues, log in using your HCP account. The account and password are saved in the browser, so you just need to click "Login using HCP account" without entering credentials.
 
 At the start, it's important to set up the Terraform Cloud organization and workspace. This prepares you to utilize Terraform Cloud for deploying the initial BIG-IP configuration on AWS at a later stage.
 The organization name will follow a format like __STUDENT-XXX__  where "__XXXX__" represents a unique prefix assigned to each student.
