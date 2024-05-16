@@ -137,6 +137,7 @@ Access the Agent option by first navigating to "workspaces", then proceed to "se
 
 ### Set up the day1 workspace to utilize the big-pool Agent.
 
+To assign the workspace "day1" to utilize the agent named "big-pool," navigate to the "day1" workspace and select the "Agent" option under the Default execution mode. Then, update the Organization information accordingly.
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/47c44266-b168-4b00-869a-aef078cf4cb8)
 
