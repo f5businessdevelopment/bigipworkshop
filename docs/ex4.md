@@ -133,19 +133,7 @@ Access the Agent option by first navigating to "workspaces", then proceed to "se
 
 
 
-You should see something like this
 
-```
-sudo docker run -e TFC_AGENT_TOKEN=8CamtPH5tqLLCQ.atlasv1.hR4lCwKzQ -e TFC_AGENT_NAME=big-pool hashicorp/tfc-agent:latest
-2024-05-13T19:47:09.426Z [INFO]  agent: Starting: agent_name=big-pool agent_version=1.15.1
-2024-05-13T19:47:09.440Z [INFO]  core: Starting: version=1.15.1
-2024-05-13T19:47:09.823Z [INFO]  core: Agent registered successfully with HCP Terraform: agent_id=agent-aAzhSEqFr2i36Jr2 agent_pool_id=apool-gYsid9axtTudn3yk
-2024-05-13T19:47:09.871Z [INFO]  agent: Core version is up to date: version=1.15.1
-2024-05-13T19:47:09.872Z [INFO]  core: Waiting for next job
-
-```
-
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/4d28a476-83f9-402f-b399-8e34b9d264a7)
 
 ### Set up the day1 workspace to utilize the big-pool Agent.
 
