@@ -66,11 +66,21 @@ terraform apply -auto-approve
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/8bebd6a2-d942-4459-9eaa-e92412861d87)
 
+Ensure that you validate all the workspaces and confirm that you are within your Organization.
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/78eca5b4-ba1c-4f68-97e4-d943a04264ff)
 
+Try accessing HTTP://YOUR_PUBLIC_IP:8080 in your browser; you should receive a response from the NGINX backend server.
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/38e06954-9e18-40c7-957e-08411100800e)
 
+### Clean UP
+
+Prior to cleaning up, ensure that your workspace is not linked to the big-pool agent. Instead, opt for the Remote option. Also go to the __day0__  directory and run terraform destroy from there.
+
+```
+terraform destroy
+```
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/38b04cf1-c87d-48f4-9648-33930920d33c)
 
 
