@@ -110,9 +110,7 @@ Before running the `terraform init/plan/apply` commands, ensure you update the O
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/96de93ed-f6d4-48f0-9bcd-6871491418f9)
 
-Additionally, from your RDP session browser, navigate to the AWS console and update the ingress Security Group for the F5 instance "studentXXX-f5 instance" as depicted. Enable ```SSH``` with __My IP__ as we will need to ssh into the Agent from your jumpbox
-
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/221fc562-027d-4f02-868b-676398453c94)
+ 
 
 ## Setup HCP Terraform Agent
 
@@ -161,7 +159,10 @@ You can now navigate to the workspace to verify that the day1 workspace is creat
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/5b36a47c-1427-4d6e-9879-bbec6d802ef2)
 
+
 To access the configuration on the BIG-IP, you'll need to obtain the credentials from the Outputs section in the HCP Terraform. Click on the F5_ui Public IP or copy and open the same in your browser to log in to the BIG-IP interface.
+
+Make sure to update the Security Group of your F5 instance to include your __My IP__
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/3fb0ea02-b227-4640-aa16-a24c5f17fe42)
 
