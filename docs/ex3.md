@@ -101,4 +101,4 @@ Now, visit app.terraform.io and ensure you're in your appropriate organization. 
 
 Great! We've successfully deployed the BIG-IP in the workspace. Let's proceed to the next exercise, which focuses on Day1 operations, such as deploying the BIG-IP objects.
 
- [GoTo Next Exercise1.4](ex4.md)
+ [GoTo Next Exercise1.4 Day 1 Creating BIG-IP objects using TFC and BIG-IP terraform resources](ex4.md)
