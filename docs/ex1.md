@@ -18,8 +18,7 @@
    ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/49df6787-1c1d-41bc-b516-a5091540edb7)
 
 
-4. Ensure the 'Region' is ``` us-west-2 ```
-   Currently, the lab is only designed for AWS resources in the us-west-2
+4. 'Region' is ``` us-west-2 ``` Currently, the lab is only designed for AWS resources in the us-west-2
 
    
 5. Navigate to Components -->  __Systems Jumpbox__ --> __Access__ --> __RDP__ and RDP into the JumpBox
