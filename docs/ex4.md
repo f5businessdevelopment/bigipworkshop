@@ -95,14 +95,15 @@ Open app.terraform.io in a new tab, then navigate to your Organization and works
 
 click on VariableSets we are adding the BIG-IP Env variables for terraform
 
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/968dfb7e-a697-4741-901c-ddcffce71634)
+
 ```
 BIG-IP Env
 ```
 
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/968dfb7e-a697-4741-901c-ddcffce71634)
-
-
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/1c25dc14-5c20-4295-b256-b56fe1df9c24)
+
 
 You should see the BIG-IP Variables Set displayed as illustrated below. Ensure that you have selected "Terraform variables."
 We're utilizing the private IP for BIG-IP because our plan involves configuring the Terraform TFE Agent on a VM. This agent will communicate with the HCP Terraform using a private IP connection.
