@@ -101,6 +101,7 @@ click on VariableSets we are adding the BIG-IP Env variables for terraform
 ```
 BIG-IP Env
 ```
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/398758cf-475b-43b2-9166-28e24ebac2ad)
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/1c25dc14-5c20-4295-b256-b56fe1df9c24)
 
