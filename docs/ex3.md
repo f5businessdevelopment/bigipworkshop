@@ -4,6 +4,13 @@ Exercise 3- Day 0 BIG-IP Deployment on AWS
 ## Create a SSH Key 
 Before executing the Terraform script, it's essential to generate an SSH key pair. We'll require this in the subsequent section to configure the HCP Terraform agent on a VM machine. 
 
+Change directory to day0
+
+```
+cd /BIG-IP-Configs-to-AS3-with-Terraform/day0
+```
+
+Now generate the key
 ```
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com" -f work
 ```
