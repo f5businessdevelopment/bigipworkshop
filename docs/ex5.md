@@ -47,6 +47,7 @@ Cloud Configuration:
 ---------------------
 The cloud block within the Terraform configuration specifies the organization and workspaces to be used. It is structured as follows:
 
+```
 cloud {
   organization = "<Your Organisation STUDENT-XXXX>"
 
@@ -54,7 +55,7 @@ cloud {
     name = "AS3app"
   }
 }
-
+```
 - organization: Specifies the organization name where resources will be provisioned. Replace "<Your Organisation STUDENT-XXXX>" with your organization's name.
 - workspaces: Defines the workspace to be used for managing resources within the organization.
   - name: Specifies the name of the workspace. In this configuration, the workspace is named "AS3app".
@@ -63,13 +64,14 @@ Required Providers Configuration:
 ----------------------------------
 The required_providers block specifies the required provider and its version to be used in the Terraform configuration.
 
+```
 required_providers {
   bigip = {
     source  = "F5Networks/bigip"
     version = "1.22.0"
   }
 }
-
+```
 - bigip: Specifies the provider name, which is "bigip" in this case.
   - source: Specifies the source of the provider. In this configuration, the provider is sourced from "F5Networks/bigip".
   - version: Specifies the version of the provider to be used. The version specified is "1.22.0".
