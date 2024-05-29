@@ -95,6 +95,10 @@ Open app.terraform.io in a new tab, then navigate to your Organization and works
 
 click on VariableSets we are adding the BIG-IP Env variables for terraform
 
+```
+BIG-IP Env
+```
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/968dfb7e-a697-4741-901c-ddcffce71634)
 
 
