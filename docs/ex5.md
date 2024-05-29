@@ -80,12 +80,13 @@ Provider Configuration:
 ------------------------
 The provider block configures the connection details for the "bigip" provider.
 
+```
 provider "bigip" {
   address  = "https://${var.address}:${var.port}"
   username = var.username
   password = var.password
 }
-
+```
 - address: Specifies the address of the BigIP device. It uses variables var.address and var.port to construct the URL.
 - username: Specifies the username used to authenticate with the BigIP device. It uses a variable var.username.
 - password: Specifies the password used to authenticate with the BigIP device. It uses a variable var.password.
@@ -93,11 +94,11 @@ provider "bigip" {
 Example Usage for JSON File:
 -----------------------------
 The resource block defines a resource of type "bigip_as3" named "as3-example1" and specifies the AS3 JSON configuration file to be used.
-
+```
 resource "bigip_as3" "as3-example1" {
   as3_json = file("vs_tc2.json")
 }
-
+```
 - bigip_as3: Specifies the type of resource, which is "bigip_as3".
 - as3-example1: Specifies the resource name.
 - as3_json: Specifies the AS3 JSON configuration file to be applied to the BigIP device. It uses the file function to read the contents of the "vs_tc2.json" file.
