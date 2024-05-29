@@ -165,11 +165,11 @@ Next, execute the command `terraform init` to initialize the Terraform configura
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/17a6db5b-c238-42f5-b69c-e3fe0821fe70)
 
-3. Update the inbound rule by selecting __All TCP__ and __My_IP__
+3. Update the inbound rule by selecting __All TCP__ and __My_IP__ and save the rule
    
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/09116a91-4c97-41af-9e94-1dfe4b337faf)
 
-
+Go to VSCode 
 
 Next, execute the command `terraform plan` to generate and review an execution plan based on the Terraform configuration.
 
