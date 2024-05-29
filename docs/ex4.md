@@ -105,8 +105,12 @@ BIG-IP Env
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/1c25dc14-5c20-4295-b256-b56fe1df9c24)
 
+One by one start adding the parameters __address, port, username, password__ and so on, Ensure that you have selected "Terraform variables."....finally create a variable set
 
-You should see the BIG-IP Variables Set displayed as illustrated below. Ensure that you have selected "Terraform variables."
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/e7e3045b-32bd-4dbd-a009-3a6cc8e85aa0)
+
+
+You should see the BIG-IP Variables Set displayed as illustrated below. 
 We're utilizing the private IP for BIG-IP because our plan involves configuring the Terraform TFE Agent on a VM. This agent will communicate with the HCP Terraform using a private IP connection.
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/69215482-fd6e-4fc7-a1d5-f01a36cf0849)
