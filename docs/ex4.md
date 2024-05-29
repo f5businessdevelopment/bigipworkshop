@@ -158,6 +158,19 @@ To assign the workspace "day1" to utilize the agent named "big-pool," navigate t
 
 Next, execute the command `terraform init` to initialize the Terraform configuration.
 
+## AWS Security configuration
+
+1. Go to AWS Console from the Jump Box browser and select __student-XXXX-f5__ instance
+2. Click on the security group go __XXX-f5__ edit inbound rules
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/17a6db5b-c238-42f5-b69c-e3fe0821fe70)
+
+3. Update the inbound rule by selecting __All TCP__ and __My_IP__
+   
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/09116a91-4c97-41af-9e94-1dfe4b337faf)
+
+
+
 Next, execute the command `terraform plan` to generate and review an execution plan based on the Terraform configuration.
 
 Execute the command `terraform apply` to apply the changes defined in the Terraform configuration and provision the resources accordingly.
