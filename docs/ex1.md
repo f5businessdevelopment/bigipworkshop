@@ -35,7 +35,8 @@
 
    __Note__ if you get this window please cancel and move forward
 
-   ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/5264a1e6-0b0c-4a7f-8453-c2b30228ba0f)
+   ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/c8f218c5-ffd3-45ad-a778-fe10a2766159)
+
 
     
 6. Upon entering the RDP session on the Ubuntu jump box, locate "__Activities__" positioned in the top- 
