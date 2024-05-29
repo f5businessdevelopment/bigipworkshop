@@ -158,7 +158,7 @@ To assign the workspace "day1" to utilize the agent named "big-pool," navigate t
 
 Next, execute the command `terraform init` to initialize the Terraform configuration.
 
-## AWS Security configuration
+## AWS Security Group Configuration
 
 1. Go to AWS Console from the Jump Box browser and select __student-XXXX-f5__ instance
 2. Click on the security group go __XXX-f5__ edit inbound rules
@@ -197,9 +197,7 @@ Navigate to the traffic manager option and proceed to the virtual server. Check 
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/9fa2541a-af7b-49e5-8e21-ae88d81d288a)
 
-Additionally, to access the backend application from your RDP jump box browser, set up another security group allowing traffic on port 8080. Furthermore, from your RDP session browser, navigate to the AWS console and update the ingress Security Group for the F5 instance "studentXXX-f5 instance" to enable TCP port 8080 for __My IP__
-
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/d5dbcb05-e30e-4116-94eb-38d2e9157300)
+##Access the backend application from your RDP jump box browser
 
 To access the backend NGINX app, issue the command `http://Public_IP_of_F5:8080` from your Jumpbox browser.
 
