@@ -132,7 +132,7 @@ This action will generate a distinctive organizational name and workspace for yo
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/67329155-2d4c-448e-94b4-f079f04f6212)
 
 
-Navigate to the HCP Terraform app at app.terraform.io in your browser. Click on the Terraform icon located in the upper left corner, then proceed to the 'Organizations' section. Select your correct Org name, typically labeled as __STUDENT-XXX__. Ensure that you choose your specific Org name and check for the appropriate __PREFIX__ following the '__STUDENT__' word. The __PREFIX__ should be provided by the terraform apply command you executed in the previous step. Avoid selecting any other Org
+Navigate to the HCP Terraform app at https://app.terraform.io in your browser. Click on the Terraform icon located in the upper left corner, then proceed to the 'Organizations' section. Select your correct Org name, typically labeled as __STUDENT-XXX__. Ensure that you choose your specific Org name and check for the appropriate __PREFIX__ following the '__STUDENT__' word. The __PREFIX__ should be provided by the terraform apply command you executed in the previous step. Avoid selecting any other Org
 
 __Note__ Make sure to refresh the browser to see you Tenant Prefix
 
