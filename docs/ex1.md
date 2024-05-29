@@ -32,6 +32,11 @@
   Please use username as ```student``` and password as ```workshop```
   
    ![alt text](../images/login.png)
+
+   __Note__ if you get this window please cancel and move forward
+
+   ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/5264a1e6-0b0c-4a7f-8453-c2b30228ba0f)
+
     
 6. Upon entering the RDP session on the Ubuntu jump box, locate "__Activities__" positioned in the top- 
 left corner and proceed to click on it to view the available applications.
