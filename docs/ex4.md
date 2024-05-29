@@ -115,7 +115,11 @@ We're utilizing the private IP for BIG-IP because our plan involves configuring 
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/69215482-fd6e-4fc7-a1d5-f01a36cf0849)
 
+Make sure you are in __day1__ directory by changing the directory to
 
+```
+~/BIG-IP-Configs-to-AS3-with-Terraform/day1
+```
 Before running the `terraform init/plan/apply` commands, ensure you update the Organization in the `main.tf` file with the correct prefix.
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/96de93ed-f6d4-48f0-9bcd-6871491418f9)
