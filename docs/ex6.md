@@ -56,7 +56,7 @@ terraform destroy
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/94a9048e-171c-4046-b813-2b467aeb6450)
 
-## Setup Agent 
+## Change Default Execution Mode to Agent
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/a3f4bb2e-fee2-4f10-8174-c2cb1573e8ef)
 
