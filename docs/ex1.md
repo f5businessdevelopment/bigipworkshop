@@ -51,7 +51,7 @@ left corner and proceed to click on it to view the available applications.
   
    ![alt text](../images/vscode.png)
 
-   change directory to
+   On the VSCode open a Terminal and change directory to
    ```
    cd BIG-IP-Configs-to-AS3-with-Terraform
 
