@@ -20,6 +20,8 @@
 
 4. 'Region' is ``` us-west-2 ``` Currently, the lab is only designed for AWS resources in the us-west-2
 
+__Note__: If you're using a Mac and haven't yet downloaded the Remote Desktop App, you can do so by clicking
+  https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12
    
 5. Navigate to Components -->  __Systems Jumpbox__ --> __Access__ --> __RDP__ and RDP into the JumpBox
 
