@@ -214,7 +214,7 @@ terraform destroy
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b84d0cf9-c532-4005-a50e-6f1c894d3111)
 
 
-[GoTo Next Exercise1.5 Converting BIG-IP configuration using Vscode/ACC tool to AS3 configuration](ex5.md)
+[GoTo Next Exercise5 Converting BIG-IP configuration using Vscode/ACC tool to AS3 configuration](ex5.md)
 
 
 
