@@ -71,6 +71,6 @@ We will be using these AWS Secret Keys to authenticate the AWS Cloud to create i
    We'll require this information to input as AWS credentials into HCP Terraform, as all tasks will 
    be executed through HCP Terraform.
 
-[GoTo Next Exercise1.2 Create a New Organisation and Workspace on HCP Terraform](ex2.md)
+[GoTo Next Exercise2 Create a New Organisation and Workspace on HCP Terraform](ex2.md)
 
 [GoBack](../README.md)
