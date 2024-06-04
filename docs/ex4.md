@@ -32,7 +32,7 @@ required_providers {
 
 ```
 Defines the required provider for interacting with the BIG-IP platform.
-
+__Note__: You don't need to create this configuration, this is just for reference, file `main.tf` already has that.
 ### Provider Configuration
 
 ```
@@ -46,7 +46,7 @@ provider "bigip" {
 Configures the BIG-IP provider with the necessary connection details such as address, username, and password.
 
 ### Resource Definitions
-
+__Note__: You don't need to create this configuration, this is just for reference, file `main.tf` already has that.
 ```
 resource "bigip_ltm_monitor" "vs_tc1" {
   name     = "/Common/test_monitor_vs_tc1"
