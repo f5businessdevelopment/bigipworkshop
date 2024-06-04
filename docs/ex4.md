@@ -1,7 +1,9 @@
 Exercise 4 - Day 1 Creating BIG-IP objects using TFC and BIG-IP terraform resources
 ===================================================================================
 
-For Day1, our focus shifts to deploying the BIG-IP application objects using imperative Terraform resources. The main.tf file contains configuration details where we set up monitors, nodes, pools, and virtual servers using imperative BIG-IP Terraform resources, as illustrated below.
+For Day 1, our focus shifts to deploying the BIG-IP application objects using imperative Terraform resources. The main.tf file contains configuration details where we set up monitors, nodes, pools, and virtual servers using imperative BIG-IP Terraform resources, as illustrated below.
+
+__Note__: You don't need to create this configuration, this is just for reference, file `main.tf` already has that.
 
 ```
  # Terraform Configuration for Deploying BIG-IP Application Objects
