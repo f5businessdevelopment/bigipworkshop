@@ -6,7 +6,7 @@ If you are not authenticated with https://app.terraform.io click on __Continue w
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/52d96284-c5b3-44a4-8316-1dd881ced43f)
 
-select the user ID as shown below
+select the user ID as shown below ( __Note__: PLEASE DON'T CREATE NEW ID JUST USE SHOWN BELOW)
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/822545eb-b2ed-481a-81be-5e311244e34d)
 
