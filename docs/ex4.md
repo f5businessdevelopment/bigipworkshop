@@ -91,7 +91,7 @@ You can access the BIG-IP credentials by navigating to the app.terraform.io, the
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b8f3e4d9-e0ac-4a50-9b97-21a4e422b001)
 
 ---
-Open app.terraform.io in a new tab, then navigate to your Organization and workspace. Click on "Settings."
+Open https://app.terraform.io in a new tab, then navigate to your Organization and workspace. Click on "Settings."
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/5afd1a83-087a-4890-8e32-4f7ced33f9f4)
 
