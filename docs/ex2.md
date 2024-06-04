@@ -148,4 +148,4 @@ You can explore the workspace and learn how to initialize it. Take note of the e
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/fb44b33a-959e-4e0b-a9e0-6085c6721df3)
 
 
-[GoTo Next Exercise1.3 Day 0 BIG-IP Deployment on AWS](ex3.md)
+[GoTo Next Exercise3 Day 0 BIG-IP Deployment on AWS](ex3.md)
