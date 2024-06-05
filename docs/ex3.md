@@ -18,9 +18,6 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com" -f work
 ```
 Before executing the Terraform commands, ensure that you're in the __day0__ directory, as shown in the picture.
 
-```
-cd day0
-```
 
 ## Execute Terraform init
 ```
