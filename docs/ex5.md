@@ -20,7 +20,7 @@ Click on "Open Folder" in VSCode and ensure that you have opened the "BIG-IP-Con
 Click on the F5 icon on the left side of the VSCode app. The F5 icon which is at the extreme left (white) 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/4f0de423-7f83-44c5-b59c-c0068fcd090a)
 
-Click on "Import.conf/UCS/QKVIEW from local file" in the VSCode app, and select the file "App.ucs" to import.
+Click on __"Import.conf/UCS/QKVIEW from local file"__ in the VSCode app, and select the file "App.ucs" to import.
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/877490b7-48d1-4520-9579-6e84242fa8b3)
 
