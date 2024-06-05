@@ -20,7 +20,8 @@ Click on "Open Folder" in VSCode and ensure that you have opened the "BIG-IP-Con
 Click on the F5 icon on the left side of the VSCode app. The F5 icon which is at the extreme left (white) 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/4f0de423-7f83-44c5-b59c-c0068fcd090a)
 
-Click on __"Import.conf/UCS/QKVIEW from local file"__ in the VSCode app, and select the file "App.ucs" to import.
+Click on __"Import.conf/UCS/QKVIEW from local file"__ in the VSCode app, and select the file "App.ucs" to import. 
+__Note__: Make sure you are in AS3 directory  ~/BIG-IP-Configs-to-AS3-with-Terraform/AS3
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/877490b7-48d1-4520-9579-6e84242fa8b3)
 
@@ -45,7 +46,7 @@ You have to also add
 to the JSON, make sure it looks like https://github.com/f5businessdevelopment/BIG-IP-Configs-to-AS3-with-Terraform/blob/8159c8f05d1bbc5c22a215c49eb05fdf882ccff5/AS3/vs_tc2.json#L1
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/cbd2f0b2-b71d-4545-a93d-699ce2955f34)
 
-Now, let's review the Terraform file we will be deploying. This file utilizes the BIG-IP Terraform provider and the "bigip_as3" Terraform resource. This resource will use the "vs_tc1.json" file you just converted. I have a pre-converted version of this file for you, so you can choose to use either that one or your own conversion.
+Now, let's review the Terraform file we will be deploying. This file utilizes the BIG-IP Terraform provider and the "bigip_as3" Terraform resource. This resource will use the "vs_tc1.json" file you just converted. I have a pre-converted version of this file for you, so you can choose to use either that one or your own conversion. You need to save the file with some name
 Terraform Configuration Documentation
 
 Cloud Configuration:
