@@ -173,7 +173,6 @@ To assign the workspace "day1" to utilize the agent named "big-pool," navigate t
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/59bf0345-d533-4fc7-b46d-37cf73e42e5f)
 
 
-Next, execute the command `terraform init` to initialize the Terraform configuration.
 
 ## AWS Security Group Configuration
 
