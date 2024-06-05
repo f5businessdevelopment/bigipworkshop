@@ -90,6 +90,7 @@ You can access the BIG-IP credentials by navigating to the https://app.terraform
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b8f3e4d9-e0ac-4a50-9b97-21a4e422b001)
 
+## Create Variable Set as BIG-IP env on HCP Terraform
 ---
 Open https://app.terraform.io in a new tab, then navigate to your Organization and workspace. Click on "Settings."
 
