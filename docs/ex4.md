@@ -173,14 +173,16 @@ To assign the workspaces  to utilize the agent named "big-pool," navigate to the
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/47c44266-b168-4b00-869a-aef078cf4cb8)
 
-- Click on __Agents__ and select Default execution mode as Agents
+- Click on __Agents__ and select Default execution mode as Agent and update Organisation.
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/59bf0345-d533-4fc7-b46d-37cf73e42e5f)
 
-- Click on __big-pool__ to get into a new window and make sure __Grant to All workspaces in the Org__ is selected
-
+- Click on __big-pool__ to get into a new window and 
   ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b0f021de-1db4-4a21-8933-2008cd4a5f5e)
 
-- Click on 
+- make sure __Grant to All workspaces in the Org__ is selected and Hit __SAVE__
+
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/15a92643-f389-4609-8cfe-757de312fe48)
+
 
 
 ## AWS Security Group Configuration
