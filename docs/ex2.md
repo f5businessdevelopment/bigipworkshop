@@ -14,6 +14,10 @@ Click continue and use the password stored in the browser to login
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/ca7a5c23-789c-432a-a83f-e610a883b804)
 
+## Access the lab documentation 
+
+You can open a new tab on the jump box browser and click https://github.com/f5businessdevelopment/bigipworkshop
+to access documentation
 
 At the start, it's important to set up the Terraform Cloud organization and workspace. This prepares you to utilize Terraform Cloud for deploying the initial BIG-IP configuration on AWS at a later stage.
 The organization name will follow a format like __STUDENT-XXX__  where "__XXXX__" represents a unique prefix assigned to each student.
