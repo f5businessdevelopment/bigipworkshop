@@ -169,10 +169,18 @@ Access the Agent option by first navigating to "workspaces", then proceed to "se
 
 To assign the workspaces  to utilize the agent named "big-pool," navigate to the "day1" workspace and select the "Agent" option under the Default execution mode. Then, update the Organization information accordingly.
 
+- Go to Workspaces
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/47c44266-b168-4b00-869a-aef078cf4cb8)
 
+- Click on Agents
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/59bf0345-d533-4fc7-b46d-37cf73e42e5f)
 
+- Click on __big-pool__
+
+  ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b0f021de-1db4-4a21-8933-2008cd4a5f5e)
+
+- Click on 
 
 
 ## AWS Security Group Configuration
