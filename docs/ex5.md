@@ -38,10 +38,14 @@ You will see a new file named "Untitled-1" opened, which is the AS3 converted fi
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/d9f84eef-007f-4402-8173-cd07320fdcfd)
 
 Change the timeout value from 999 to 800 in the "Untitled-1" file, then save the file with a new name.
-You have to also add
+You have to also add at the start of the AS3 JSON you created the code snippet below and add the corresponding closing curly brace.
+so basically you add an opening brace and two statements class, declaration as preamble and then closing bracket at the end of JSON.
 
 ```
-"class": "AS3"
+{ 
+    "class": "AS3",
+    "declaration":
+} //This should be at the end of the file to close the starting curly brace
 ```
 to the JSON, make sure it looks like https://github.com/f5businessdevelopment/BIG-IP-Configs-to-AS3-with-Terraform/blob/8159c8f05d1bbc5c22a215c49eb05fdf882ccff5/AS3/vs_tc2.json#L1
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/cbd2f0b2-b71d-4545-a93d-699ce2955f34)
