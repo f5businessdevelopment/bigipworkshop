@@ -157,7 +157,7 @@ Before configuring the Agent, it's necessary to perform `terraform init` and `te
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/2d609b76-12a2-41ba-87e3-7229e8437950)
 
 
-Access the Agent option by first navigating to "workspaces", then proceed to "settings", and finally select "Agents".
+Access the Agent option by first navigating to "workspaces", then proceed to "settings", and finally select __"Agent"__.
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/e3ed4eba-6375-47b7-92ba-73a3558f4b0f)
 
