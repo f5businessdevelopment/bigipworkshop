@@ -169,9 +169,8 @@ Access the Agent option by first navigating to "workspaces", then proceed to "se
 
 To assign the workspaces  to utilize the agent named "big-pool," navigate to the "day1" workspace and select the "Agent" option under the Default execution mode. Then, update the Organization information accordingly.
 
-- Go to Workspaces
+- Go to Workspaces --> Settings 
 
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/47c44266-b168-4b00-869a-aef078cf4cb8)
 
 - Click on __Agents__ and select Default execution mode as Agent and update Organisation.
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/59bf0345-d533-4fc7-b46d-37cf73e42e5f)
