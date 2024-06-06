@@ -136,7 +136,7 @@ We're utilizing the private IP for BIG-IP because our plan involves configuring 
 Make sure you are in __day1__ directory by changing the directory to
 
 ```
-~/BIG-IP-Configs-to-AS3-with-Terraform/day1
+cd ~/BIG-IP-Configs-to-AS3-with-Terraform/day1
 ```
 Before running the `terraform init/plan/apply` commands, ensure you update the Organization in the `main.tf` file with the correct prefix.
 
@@ -167,7 +167,7 @@ Access the Agent option by first navigating to "workspaces", then proceed to "se
 
 ### Set up the Workspaces to utilize the big-pool Agent in your ORG.
 
-To assign the workspace "day1" to utilize the agent named "big-pool," navigate to the "day1" workspace and select the "Agent" option under the Default execution mode. Then, update the Organization information accordingly.
+To assign the workspaces  to utilize the agent named "big-pool," navigate to the "day1" workspace and select the "Agent" option under the Default execution mode. Then, update the Organization information accordingly.
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/47c44266-b168-4b00-869a-aef078cf4cb8)
 
