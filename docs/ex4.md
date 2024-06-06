@@ -187,6 +187,8 @@ To assign the workspaces  to utilize the agent named "big-pool," navigate to the
 
 ## AWS Security Group Configuration
 
+--Note__: Make sure you are in us-west-2 Oregon region 
+
 1. Go to AWS Console from the Jump Box browser and select __student-XXXX-f5__ instance
 2. Click on the security group go __XXX-f5__ edit inbound rules
 
@@ -196,6 +198,7 @@ To assign the workspaces  to utilize the agent named "big-pool," navigate to the
    
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/09116a91-4c97-41af-9e94-1dfe4b337faf)
 
+__Note__ IF security group is not configured terraform plan will fail.
 Go to VSCode 
 
 Next, execute the command `terraform plan` to generate and review an execution plan based on the Terraform configuration.
