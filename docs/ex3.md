@@ -9,7 +9,7 @@ Before executing the Terraform script, it's essential to generate an SSH key pai
 Change directory to day0
 
 ```
-cd /BIG-IP-Configs-to-AS3-with-Terraform/day0
+cd ~/BIG-IP-Configs-to-AS3-with-Terraform/day0
 ```
 
 Now generate the key
