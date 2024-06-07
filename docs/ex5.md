@@ -1,13 +1,13 @@
 Exercise 5- Converting BIG-IP configuration using Vscode/ACC tool to AS3 configuration
 ======================================================================================
-
-1. Open the BIG-IP UCS configuration file using the VSCode BIG-IP Extension tool (ACC).
-2. Navigate to the source or partition containing the configuration you wish to convert.
-3. Identify the specific configuration you want to convert and select it.
-4. Right-click on the selected configuration and choose the "Convert to AS3" option from the context menu.
-5. The selected configuration will be transformed into an AS3 configuration format.
-6. Save the converted AS3 configuration file.
-7. Utilize HCP Terraform to deploy the AS3 configuration to your target environment.
+We will follow these steps:-
+- Open the BIG-IP UCS configuration file using the VSCode BIG-IP Extension tool (ACC).
+- Navigate to the source or partition containing the configuration you wish to convert.
+- Identify the specific configuration you want to convert and select it.
+- Right-click on the selected configuration and choose the "Convert to AS3" option from the context menu.
+- The selected configuration will be transformed into an AS3 configuration format.
+- Save the converted AS3 configuration file.
+- Utilize HCP Terraform to deploy the AS3 configuration to your target environment.
 
 Ensure that you have the following extensions installed: F5 ACC Chariot, F5 Networks iApp, and The F5 Extension. You can verify this by clicking on the blocks icon in VSCode.
 
