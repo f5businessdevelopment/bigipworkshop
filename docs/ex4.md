@@ -197,8 +197,8 @@ To assign the workspaces  to utilize the agent named "big-pool," navigate to the
 
 __Note__: Make sure you are in us-west-2 Oregon region 
 
-1. Go to AWS Console from the Jump Box browser and select __student-XXXX-f5__ instance
-2. Click on the security group go __XXX-f5__ edit inbound rules
+1. Go to AWS Console from the Jump Box browser and select __studentXXXX-f5__ instance
+2. Click on the security group go __studentXXX-f5__ and edit inbound rules
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/17a6db5b-c238-42f5-b69c-e3fe0821fe70)
 
