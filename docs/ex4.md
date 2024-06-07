@@ -175,7 +175,7 @@ To assign the workspaces  to utilize the agent named "big-pool," navigate to the
 - Click on __Agents__ and select Default execution mode as Agent and update Organisation.
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/59bf0345-d533-4fc7-b46d-37cf73e42e5f)
 
-- Click on __big-pool__  the one which is above Agent name, to get into a new window 
+- Go to the __Agents__ Click on __big-pool__  the one which is above Agent name, to get into a new window 
   ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/b0f021de-1db4-4a21-8933-2008cd4a5f5e)
 
 - make sure __Grant to All workspaces in the Org__ is selected and Hit __SAVE__
