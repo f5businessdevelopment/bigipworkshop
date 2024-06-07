@@ -1,5 +1,11 @@
 Exercise 6- Deploying AS3 App using TFC and terraform BIG-IP resources
 ======================================================================
+
+Make sure you are in __AS3__ directory or use below
+
+```
+cd ~/BIG-IP-Configs-to-AS3-with-Terraform/AS3
+```
 In this exercise, we'll explore deploying AS3 (Application Services 3) JSON blobs using BIG-IP Terraform resources. We'll utilize the configuration we converted from legacy settings to AS3. Once more, we'll employ the same big-pool agent for this task.
 
 Let's examine the `main.tf` file and ensure that the organization is set to STUDENT-XXXX. Please verify your prefix and adjust the number accordingly.
