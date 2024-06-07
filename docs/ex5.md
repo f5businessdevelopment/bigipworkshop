@@ -48,6 +48,13 @@ so basically you add an opening brace and two statements class, declaration as p
 } //This should be at the end of the file to close the starting curly brace
 ```
 to the JSON, make sure it looks like https://github.com/f5businessdevelopment/BIG-IP-Configs-to-AS3-with-Terraform/blob/8159c8f05d1bbc5c22a215c49eb05fdf882ccff5/AS3/vs_tc2.json#L1
+
+Make sure you are in the __AS3__ directory and you save the newly created file in that directory.
+
+```
+cd ~/BIG-IP-Configs-to-AS3-with-Terraform/AS3
+```
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/cbd2f0b2-b71d-4545-a93d-699ce2955f34)
 
 Now, let's review the Terraform file we will be deploying. This file utilizes the BIG-IP Terraform provider and the "bigip_as3" Terraform resource. This resource will use the "vs_tc1.json" file you just converted. I have a pre-converted version of this file for you, so you can choose to use either that one or your own conversion. You need to save the file with some name
