@@ -10,7 +10,7 @@ For Day 1, our focus shifts to deploying the BIG-IP application objects using im
 
 __Note__: You don't need to create this configuration, this is just for reference, file `main.tf` already has that.
 
-### Review TF files for Day1
+## Review TF files for Day1
 
 ```
  # Terraform Configuration for Deploying BIG-IP Application Objects
