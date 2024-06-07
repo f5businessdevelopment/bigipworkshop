@@ -20,7 +20,7 @@ cat  ../day0/cloud.tf
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/77b0df9e-040b-4307-bccd-072497adc171)
 
-## Change Default Execution Mode to Agent
+## Make sure  Default Execution Mode to Agent
 
 Navigate to workspaces --> Setting --> Agent
 
