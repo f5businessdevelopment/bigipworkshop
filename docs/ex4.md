@@ -242,7 +242,7 @@ Navigate to the traffic manager option and proceed to the virtual server. Check 
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/9fa2541a-af7b-49e5-8e21-ae88d81d288a)
 
-##Access the backend application from your RDP jump box browser
+## Access the backend application from your RDP jump box browser
 
 To access the backend NGINX app, issue the command `http://Public_IP_of_F5:8080` from your Jumpbox browser.
 
