@@ -50,7 +50,10 @@ left corner and proceed to click on it to view the available applications.
   applications will then launch. Please allow a few seconds for them to appear, especially since 
   you're using RDP
   
-   ![alt text](../images/vscode.png)
+   If you get this window enter the password as ```workshop```
+
+   ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/300ebf15-a103-411c-8b08-a7e8142e3229)
+
 
    On the VSCode open a Terminal and change directory to
    ```
