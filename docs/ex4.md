@@ -208,7 +208,8 @@ __Note__: Make sure you are in us-west-2 Oregon region
 
 It should look like this, obviously, the IP addresses will be different in your case
 
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/efc8cbee-2631-4eb0-b45c-4972b5fd1efc)
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/9d340c17-8d74-4eae-bba2-cd41dcf8c1ef)
+
 
 
 
