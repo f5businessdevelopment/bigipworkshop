@@ -96,11 +96,10 @@ You can visit app.terraform.io go to _YOUR_ workspace and check the configuratio
 
 Access the AWS Console by logging in from the Jump box instead of your laptop. Use the login ID __udf__ and copy the password from the UDF Cloud account.
 
-__Note__ : Make sure you are in us-west-2 region __Oregon__
+## Make sure you are in us-west-2 region Oregon from the AWS Console
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/3c50d081-1bf6-4428-83d4-80001e20a60c)
 
-## Make sure you have selected us-west-2 Oregon region from the AWS Console
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/e6bfc70a-a916-47a3-a688-22f47ca4eceb)
 
