@@ -206,10 +206,9 @@ __Note__: Make sure you are in us-west-2 Oregon region
    
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/09116a91-4c97-41af-9e94-1dfe4b337faf)
 
-It should look like this, obviously the IP addresses will be different in your case
+It should look like this, obviously, the IP addresses will be different in your case
 
-![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/28a86eb8-4724-43b8-bbe4-931763bbdb2a)
-
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/efc8cbee-2631-4eb0-b45c-4972b5fd1efc)
 
 
 
