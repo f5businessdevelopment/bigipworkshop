@@ -100,7 +100,7 @@ __Note__ : Make sure you are in us-west-2 region __Oregon__
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/3c50d081-1bf6-4428-83d4-80001e20a60c)
 
-## Take note You will be always in the us-west-2 region of Oregon
+## Make sure you have selected us-west-2 Oregon region from the AWS Console
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/e6bfc70a-a916-47a3-a688-22f47ca4eceb)
 
