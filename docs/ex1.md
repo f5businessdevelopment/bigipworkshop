@@ -43,7 +43,8 @@ __Note__: If you're using a Mac and haven't yet downloaded the Remote Desktop Ap
 6. Upon entering the RDP session on the Ubuntu jump box, locate "__Activities__" positioned in the top- 
 left corner and proceed to click on it to view the available applications.
 
-![alt text](../images/activities.png)
+![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/40a9b086-7bbb-433e-a0f2-6d4b55b604bc)
+
 
   Locate the VScode icon and click on it. Similarly, locate the browser icon and click on it. Both 
   applications will then launch. Please allow a few seconds for them to appear, especially since 
