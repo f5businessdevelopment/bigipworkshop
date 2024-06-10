@@ -68,7 +68,7 @@ left corner and proceed to click on it to view the available applications.
 
 
 7. On the browser, under the deployment tab, click on **Cloud Accounts** and look for the **API Key** and **API Secret** as shown below
-We will be using these AWS Secret Keys to authenticate the AWS Cloud to create infrastructure.
+We will be using the AWS key ID and  AWS Secret Keys and configure these in Terraform Cloud for authenticating  the AWS Cloud to create infrastructure.
 
   ![alt text](../images/console.png)
 
