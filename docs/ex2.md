@@ -156,4 +156,4 @@ You can explore the workspace and learn how to initialize it. Take note of the e
 
 [GoTo Next Exercise3 Day 0 BIG-IP Deployment on AWS](ex3.md)
 
-[GoBack](../ex1.md)
+[GoBack](ex1.md)
