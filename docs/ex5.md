@@ -124,3 +124,5 @@ resource "bigip_as3" "as3-example1" {
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/0efee389-0c47-4f6a-a32e-b341b2f75d74)
 
 [GoTo Next Exercise6 Deploying AS3 App using TFC and terraform BIG-IP resources](ex6.md)
+
+ [GoBack](ex4.md)
