@@ -142,6 +142,8 @@ Navigate to the HCP Terraform app at https://app.terraform.io in your browser. C
 
 __Note__ Make sure to refresh the browser to see you Tenant Prefix
 
+## Please check your PREFIX following STUDENT-XXXX and restrict your access to your Organization on Terraform Cloud.
+
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/1ab39f9e-dfc7-402f-a244-220c728cea75)
 
 You'll also notice that your __workspace-XXXX__ has been created correctly. Feel free to review the details.
