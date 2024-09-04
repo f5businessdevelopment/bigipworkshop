@@ -108,6 +108,11 @@ You can visit app.terraform.io go to _YOUR_ workspace and check the configuratio
 
 Access the AWS Console by logging in from the __RDP Jumpbox__ instead of your laptop. Use the login ID __udf__ and copy the password from the UDF Cloud account. We need to use the Jumpbox browser as the Terraform script uses the Public IP of that machine.
 
+```
+login: udf
+password: <Copy from the UDF Cloud Account>
+```
+
 ## Make sure you are in us-west-2 region Oregon from the AWS Console
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/3c50d081-1bf6-4428-83d4-80001e20a60c)
