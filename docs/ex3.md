@@ -112,6 +112,7 @@ Access the AWS Console by logging in from the __RDP Jumpbox__ instead of your la
 login: udf
 password: <Copy from the UDF Cloud Account>
 ```
+![image](https://github.com/user-attachments/assets/fa765ed1-0013-4270-b3f6-1c68df4c892c)
 
 ## Make sure you are in us-west-2 region Oregon from the AWS Console
 
