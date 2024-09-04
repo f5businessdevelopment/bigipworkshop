@@ -27,6 +27,7 @@ Now generate the key
 ```
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com" -f work
 ```
+### Note: Hit Enter multiple times to create the key, let everything be default
 Before executing the Terraform commands, ensure that you're in the __day0__ directory, as shown in the picture.
 
 
