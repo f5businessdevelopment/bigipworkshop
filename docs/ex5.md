@@ -37,7 +37,7 @@ You will see a new file named "Untitled-1" opened, which is the AS3 converted fi
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/d9f84eef-007f-4402-8173-cd07320fdcfd)
 
-Change the timeout value from 999 to 800 in the "Untitled-1" file, then save the file with a new name ```vs_tc2.json ```.
+Change the timeout value from 999 to 800 in the "Untitled-1" file, then save the file with a new name ```vs_tc1.json ```.
 You have to also add at the start of the AS3 JSON you created the code snippet below and add the corresponding closing curly brace.
 so basically you add an opening brace and two statements class, declaration as preamble and then closing bracket at the end of JSON.
 
