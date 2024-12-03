@@ -41,12 +41,6 @@ Change the timeout value from 999 to 800 in the "Untitled-1" file, then save the
 You have to also add at the start of the AS3 JSON you created the code snippet below and add the corresponding closing curly brace.
 so basically you add an opening brace and two statements class, declaration as preamble and then closing bracket at the end of JSON.
 
-```
-{ 
-    "class": "AS3",
-    "declaration":
-} //This should be at the end of the file to close the starting curly brace
-```
 to the JSON, make sure it looks like https://github.com/f5businessdevelopment/BIG-IP-Configs-to-AS3-with-Terraform/blob/8159c8f05d1bbc5c22a215c49eb05fdf882ccff5/AS3/vs_tc2.json#L1
 
 Make sure you are in the __AS3__ directory and you save the newly created file in that directory.
