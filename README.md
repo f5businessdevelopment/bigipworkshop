@@ -34,5 +34,5 @@ The following topics will be covered
 
 **Go to [Exercise 6- Deploying AS3 App using TFC and terraform BIG-IP resources](docs/ex6.md)**
 
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/gFn3X7HZ6qE)
+[Watch the video on YouTube](https://youtu.be/gFn3X7HZ6qE)
 
